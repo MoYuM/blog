@@ -2579,7 +2579,7 @@ type AiSummarizationInput = {
     max_length?: number;
 };
 type AiSummarizationOutput = {
-    summary: string;
+    description: string;
 };
 declare abstract class BaseAiSummarization {
     inputs: AiSummarizationInput;
