@@ -15,7 +15,7 @@ description: '暂无摘要'
 
 一个 rust 写的环境配置工具，可以为不同的工作目录设置不同的环境
 
-![Demo (1).gif](Vol%204%20React%20v19%201e6e29bd9121805486c7cd9ebee9b134/Demo_(1).gif)
+![Demo (1).gif](/Vol.4_React_v19-1.gif)
 
 https://github.com/LadybirdBrowser/ladybird
 
